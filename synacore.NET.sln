@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "synacore.NET", "synacore.NET.csproj", "{502F0647-E9B6-4E33-BFCD-E67447076687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502F0647-E9B6-4E33-BFCD-E67447076687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502F0647-E9B6-4E33-BFCD-E67447076687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502F0647-E9B6-4E33-BFCD-E67447076687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502F0647-E9B6-4E33-BFCD-E67447076687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFB809E-34AD-48B0-8F85-974DB4A89EC4}
+	EndGlobalSection
+EndGlobal
