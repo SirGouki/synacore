@@ -4,7 +4,7 @@ the Synacore Challenge (https://challenge.synacor.com/)
 I decided to take this up at the recommendation of a friend.  
 
 # Current version
-Nothing yet, just a main an an empty Emu class.
+Implemented opcodes.  Have not tested it yet.
 
 # Lanuage
 C# once again, with a little bit of SFML 2.5 because I can't do things the easy way.
